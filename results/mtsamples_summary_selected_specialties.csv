@@ -1,0 +1,9 @@
+medical_specialty,n_notes,mean_hedge_rate,std_hedge_rate,mean_sentence_len,std_sentence_len,mean_n_tokens
+Surgery,1088,0.13,0.64,12.62,2.96,483.56
+Consult - History and Phy.,516,0.28,0.33,9.99,3.17,561.98
+Radiology,273,0.29,0.57,10.55,3.47,277.01
+General Medicine,259,0.27,0.34,9.04,2.93,469.6
+Neurology,223,0.26,0.4,11.29,2.88,500.27
+SOAP / Chart / Progress Notes,166,0.35,0.42,10.28,4.23,358.83
+Discharge Summary,108,0.21,0.29,9.54,3.25,397.55
+Emergency Room Reports,75,0.26,0.31,9.67,2.11,560.59
