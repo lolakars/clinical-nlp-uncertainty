@@ -1,1 +1,1 @@
-Jupyter notebooks for analysis.
+Jupyter notebook for analysis.
